@@ -23,7 +23,7 @@ Note 2: If you are runing on Windows with GPU, please follow the [GPU Support](h
     docker kill CONTAINER_ID
 
 
-## Option 2: setup on your own machine
+## Option 2: setup on your own machine (Windows is not Supported)
 Note: the following setup was tested on Ubuntu [CPU_only (default), P100, V100].
 
 ### step 2-1: download the [code and model](https://bdmstorage.blob.core.windows.net/shared/demo.tar.gz) 
